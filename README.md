@@ -16,7 +16,7 @@ You can also find me on [Twitter](https://twitter.com/ziyun_li), [LinkedIn](http
 ---
 
 <a href="https://github.com/ziyunli">
-  <img align="center" width="49%" src="./acti_comm.svg" />
+  <img align="center" width="49%" src="./github-habits.svg" />
 </a>
 
 <a href="https://github.com/ziyunli">
@@ -28,8 +28,9 @@ You can also find me on [Twitter](https://twitter.com/ziyun_li), [LinkedIn](http
 </a>
 
 <a href="https://github.com/ziyunli">
-  <img align="center" width="49%" src="./github-habits.svg" />
+  <img align="center" width="49%" src="./header.svg" />
 </a>
+
 <a href="https://github.com/ziyunli">
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
