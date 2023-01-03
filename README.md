@@ -6,6 +6,7 @@ In the past 10 years, I have been building fullstack web applications at [Micros
 
 I currently work as a **Senior Software Engineer** at [Instacart](https://www.instacart.com/), where I am a team lead of the [Instacart API platform](https://docs.instacart.com/connect).
 My work increases our grocer partners' GMV (gross merchandise volume) by empowering them with Instacart's grocery delivery service for thousands of orders per day, quickly and reliably.
+
 ---
 
 You can also find me on [Twitter](https://twitter.com/ziyun_li), [LinkedIn](https://www.linkedin.com/in/ziyun-li-b1488425/), and [Goodreads](https://www.goodreads.com/user/show/38527571-ziyun).
