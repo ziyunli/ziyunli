@@ -1,6 +1,6 @@
 Howdy!
 
-I am Ziyun Li (a.k.a 李子雲), and I also go by Stephen. I am an electrical engineer turned software engineer.
+I am Ziyun Li (李子雲), and I also go by Stephen. I am an electrical engineer turned software engineer.
 
 In the past 10 years, I have been building fullstack web applications at [Microsoft](https://www.microsoft.com/), [D2L](https://www.d2l.com/), and [Top Hat](https://tophat.com/). But these day, I spend more time on backend servers and systems that deliver massive business impact to the company and its partners.
 
