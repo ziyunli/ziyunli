@@ -38,6 +38,5 @@ You can also find me on [GitHub](https://github.com/ziyunli), [Twitter](https://
     <img align="center" width="49%" src="./lines-of-code.svg" />
 </a>
 
-<a href="https://github.com/ziyunli">
-  <img align="center" src="./00004-3172800342.png" />
-</a>
+
+<img align="center" src="./00004-3172800342.png" />
