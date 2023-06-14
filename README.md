@@ -12,6 +12,10 @@ You can also find me on [GitHub](https://github.com/ziyunli), [Twitter](https://
 
 *I love hearing about cool technology, interesting projects, and new business ideas. If you have any of these, shot me an email with "hi" at this domain and let's talk!*
 
+<a href="https://github.com/ziyunli">
+  <img align="center" width="49%" src="./00004-3172800342.png" />
+</a>
+
 ---
 
 <a href="https://github.com/ziyunli">
