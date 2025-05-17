@@ -37,5 +37,3 @@ You can also find me on [GitHub](https://github.com/ziyunli), [Twitter](https://
 </a>
 
 ---
-
-<img align="center" src="./00004-3172800342.png" />
