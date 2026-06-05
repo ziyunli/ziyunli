@@ -6,9 +6,8 @@ I am currently a ~~Senior~~ **Staff Software Engineer**, working on
 - ~~enterprise learning management system at [D2L](https://www.d2l.com/)~~
 - ~~Xbox One at [Microsoft](https://www.microsoft.com/)~~
 
----
 
-You can also find me on [LinkedIn]([https://www.linkedin.com/in/ziyun-li-b1488425/](https://www.linkedin.com/in/ziyun-stephen-li/)).
+You can also find me on [LinkedIn](https://www.linkedin.com/in/ziyun-stephen-li/).
 
 ---
 
