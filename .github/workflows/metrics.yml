@@ -17,6 +17,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: "repositories"
           plugin_lines: yes
+          plugin_lines_skipped: ziyunli/quartz
 
   acti_comm:
     runs-on: ubuntu-latest
